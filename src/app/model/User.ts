@@ -8,7 +8,7 @@ export class User {
   public username: string;
   public email: string;
   // @ts-ignore
-  public logInDateDisplay: Date;
+  public lastLoginDateDisplay: Date;
   // @ts-ignore
   public joinDate: Date;
   // @ts-ignore
